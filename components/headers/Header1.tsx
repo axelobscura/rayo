@@ -84,9 +84,9 @@ export default function Header1() {
           </svg>
           {/* logo text */}
           <span className="mxd-logo__text">
-            rayo
+            Axel
             <br />
-            template
+            Laurent
           </span>
         </Link>
       </div>
@@ -98,8 +98,7 @@ export default function Header1() {
           <AnimatedButton
             text="Purchase"
             className="btn btn-anim btn-default btn-mobile-icon btn-outline slide-right"
-            href="https://themeforest.net/user/ib-themes/portfolio"
-            target="_blank"
+            href="/contact"
           >
             <i className="ph-bold ph-shopping-cart-simple" />
           </AnimatedButton>

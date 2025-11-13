@@ -143,9 +143,9 @@ export default function Footer1() {
                     </svg>
                     {/* logo text */}
                     <span className="mxd-logo__text">
-                      rayo
+                      Axel
                       <br />
-                      template
+                      Laurent
                     </span>
                   </a>
                 </div>
