@@ -19,9 +19,9 @@ import Testimonials from "@/components/homes/home-1/Testimonials";
 import { Metadata } from "next";
 export const metadata: Metadata = {
   title:
-    "Main || Rayo - Digital Agency & Personal Portfolio React Nextjs Template",
+    "Axel Laurent Obscura Sarzotti | Full Stack Developer México",
   description:
-    "Rayo - Digital Agency & Personal Portfolio React Nextjs Template",
+    "Full Stack Web Developer from México specializing in modern web applications. Expert in React, Next.js, TypeScript, and Node.js. Building scalable, performant, and user-centric digital solutions. Explore my portfolio of innovative projects and cutting-edge web development work.",
 };
 export default function HomeMainPage() {
   return (

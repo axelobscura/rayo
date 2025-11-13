@@ -11,7 +11,7 @@ export default function Footer2({ text = "rayosttudio" }: { text?: string }) {
       <div className="mxd-footer__text-wrap">
         <div className="fullwidth-text__tl-trigger" />
         <div className="mxd-footer__fullwidth-text anim-top-to-bottom">
-          {text == "rayosttudio" ? (
+          {text == "axosar" ? (
             <svg
               className="mxd-footer__svg-v2"
               version="1.1"
@@ -203,7 +203,7 @@ export default function Footer2({ text = "rayosttudio" }: { text?: string }) {
                 />
               </svg>
               <a href="mailto:example@example.com?subject=Message%20from%20your%20site">
-                hello@rayostudio.com
+                axosar@gmail.com
               </a>
             </p>
           </div>
@@ -231,7 +231,7 @@ export default function Footer2({ text = "rayosttudio" }: { text?: string }) {
             c0,0,1.3-0.1,1.8-0.2c1,0,4,0,4,0c0.2,0,0.4-0.2,0.4-0.4C20,9.8,19.8,9.6,19.6,9.6L19.6,9.6z"
                 />
               </svg>
-              <a href="tel:+12127089400">+1 212-708-9400</a>
+              <a href="tel:+12127089400">+52 55 3220 6321</a>
             </p>
           </div>
           {/* inner card */}
@@ -295,7 +295,7 @@ export default function Footer2({ text = "rayosttudio" }: { text?: string }) {
                   href="https://themeforest.net/user/ib-themes/portfolio"
                   target="_blank"
                 >
-                  ib themes
+                  axosar
                 </a>
                 <i className="ph-bold ph-copyright" />
                 {new Date().getFullYear()}
